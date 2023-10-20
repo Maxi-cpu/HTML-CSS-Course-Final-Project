@@ -8,7 +8,7 @@ Dieses Projekt wurde im Rahmen meines HTML/CSS-Kurses erstellt und dient als Abs
 
 ## Vorschau
 
-`!Omnifood.png`
+ ![Omnifood Screenshot](Pfad/zum/Bild.png)
 
 ## Verwendete Technologien
 
