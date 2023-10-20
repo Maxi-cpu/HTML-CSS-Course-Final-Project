@@ -8,7 +8,7 @@ Dieses Projekt wurde im Rahmen meines HTML/CSS-Kurses erstellt und dient als Abs
 
 ## Vorschau
 
-[Füge hier einen Screenshot oder einen Link zu deiner live gehosteten Website ein, wenn verfügbar]
+(Omnifood.png)
 
 ## Verwendete Technologien
 
