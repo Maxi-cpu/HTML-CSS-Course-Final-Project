@@ -1,6 +1,4 @@
-# Projektname
-
-Omnifood HTML/CSS Kurs Projekt 
+# Omnifood 
 
 ## Beschreibung
 
